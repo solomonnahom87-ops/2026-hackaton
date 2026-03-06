@@ -1,2 +1,3 @@
-# 2026-hackaton
-2026 hackaton announcement for anyone interested to join in through my webiste
+# 24hour hackaton 
+24 hackaton announcement for anyone interested to join in through my webiste
+my websites include the necessary information and details of the hackaton and can be joined through registering in my websites,nothing excessive...
